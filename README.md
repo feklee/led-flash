@@ -14,6 +14,16 @@ Limitations:
     sufficient for close subjects, e.g. when doing a selfie. More
     testing needed. To increase brightness, a [charge pump circuit][1]
     can be considered.
+    
+Parts:
+
+  * LED flash for phone cameras: [超聚光白光4.0*4.0*2.1 手机补光灯LED闪光灯珠SMD柔光小角度][2]
+  
+  * Hot shoe mount taken from a [Yinyan CY-20][3] flash
+  
+  * Digispark ATtiny85 board with Micro-USB port
+
+  * 2n7000, a few resistors, and other basic electronics parts
 
 
 License
@@ -29,3 +39,5 @@ Hocevar. See the COPYING file for more details.
 
 
 [1]: https://en.wikipedia.org/wiki/File:Wiko_Rainbow_4G_-_Flash_LED_with_SGM3140_LED_Driver_-5572.jpg
+[2]: https://item.taobao.com/item.htm?id=578846859616
+[3]: https://item.taobao.com/item.htm?id=42439354446
