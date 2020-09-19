@@ -23,7 +23,9 @@ Parts:
   
   * Digispark ATtiny85 board with Micro-USB port
 
-  * 2n7000, a few resistors, and other basic electronics parts
+  * 2n7000, a few resistors, and other basic electronics parts to
+    switch on the LED when the camera triggers the flash (center pin
+    is grounded to the rail in the hot shoe)
   
 The firmware is Arduino compatible.
 
