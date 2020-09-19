@@ -24,6 +24,8 @@ Parts:
   * Digispark ATtiny85 board with Micro-USB port
 
   * 2n7000, a few resistors, and other basic electronics parts
+  
+The firmware is Arduino compatible.
 
 
 License
