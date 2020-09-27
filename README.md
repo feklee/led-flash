@@ -26,6 +26,8 @@ Parts:
   * 2n7000, a few resistors, and other basic electronics parts to
     switch on the LED when the camera triggers the flash (center pin
     is grounded to the rail in the hot shoe)
+    
+![Schematic](Board.svg)
   
 The firmware is Arduino compatible.
 
